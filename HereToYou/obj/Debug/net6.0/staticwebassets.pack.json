@@ -1,0 +1,1333 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HereToYou.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HereToYou.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminAsseets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminAsseets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAsseets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\AdminAsseets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\AdminAsseets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\js\\main.js",
+      "PackagePath": "staticwebassets\\AdminAsseets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\AdminAsseets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\AdminAsseets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\AdminAsseets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\VisaCardAssets\\JavaScript.js",
+      "PackagePath": "staticwebassets\\VisaCardAssets\\JavaScript.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\VisaCardAssets\\VisaCard.css",
+      "PackagePath": "staticwebassets\\VisaCardAssets\\VisaCard.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\authentication\\Login.css",
+      "PackagePath": "staticwebassets\\authentication\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\authentication\\Login.js",
+      "PackagePath": "staticwebassets\\authentication\\Login.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\main.scss",
+      "PackagePath": "staticwebassets\\css\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\prepros-6.config",
+      "PackagePath": "staticwebassets\\css\\prepros-6.config"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\shop.css",
+      "PackagePath": "staticwebassets\\css\\shop.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\css\\test.css",
+      "PackagePath": "staticwebassets\\css\\test.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\galary\\100 Valentine’s Day Gifts To Make Them Smitten With Love And Affection.jpg",
+      "PackagePath": "staticwebassets\\galary\\100 Valentine’s Day Gifts To Make Them Smitten With Love And Affection.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\galary\\2f00a42b74afb085ebdb7b5236542a1a.jpg",
+      "PackagePath": "staticwebassets\\galary\\2f00a42b74afb085ebdb7b5236542a1a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\galary\\438706679_839152604920756_646745489858390478_n.jpg",
+      "PackagePath": "staticwebassets\\galary\\438706679_839152604920756_646745489858390478_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\galary\\454616040_911214331047916_5653984508818249896_n.jpg",
+      "PackagePath": "staticwebassets\\galary\\454616040_911214331047916_5653984508818249896_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\galary\\6a940089-621d-417c-bd63-bb9df78ff7f6.jpg",
+      "PackagePath": "staticwebassets\\galary\\6a940089-621d-417c-bd63-bb9df78ff7f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\galary\\7644e43f-687a-49a3-bf66-90af0882f3b3.jpg",
+      "PackagePath": "staticwebassets\\galary\\7644e43f-687a-49a3-bf66-90af0882f3b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\galary\\78330842e473c1267ca518dcd72d7032.jpg",
+      "PackagePath": "staticwebassets\\galary\\78330842e473c1267ca518dcd72d7032.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\galary\\91f2c381-e91f-447b-8af7-43aa360989cf.jpg",
+      "PackagePath": "staticwebassets\\galary\\91f2c381-e91f-447b-8af7-43aa360989cf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\galary\\A marketplace for handmade, vintage, and unique items, often crafted by independent artisans and sel.jpg",
+      "PackagePath": "staticwebassets\\galary\\A marketplace for handmade, vintage, and unique items, often crafted by independent artisans and sel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\galary\\Dolce gift box.jpg",
+      "PackagePath": "staticwebassets\\galary\\Dolce gift box.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\galary\\Fragrance Flower - Pink.jpg",
+      "PackagePath": "staticwebassets\\galary\\Fragrance Flower - Pink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\galary\\Vindemia Gold.jpg",
+      "PackagePath": "staticwebassets\\galary\\Vindemia Gold.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\06c876a1-e392-4293-a2bf-9bf5c387cd6e45_Elegant_Graduation_Cake_Ideas_Perfect_For_A_Crowd-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\06c876a1-e392-4293-a2bf-9bf5c387cd6e45_Elegant_Graduation_Cake_Ideas_Perfect_For_A_Crowd-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\118dc61e-6556-4eba-b9d7-5a1658195bferose gift bouquet.jpg",
+      "PackagePath": "staticwebassets\\img\\118dc61e-6556-4eba-b9d7-5a1658195bferose gift bouquet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\14 Candle Photography Ideas for Perfect Candlelight Shots.jpg",
+      "PackagePath": "staticwebassets\\img\\14 Candle Photography Ideas for Perfect Candlelight Shots.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\20da5f5b-7c81-47ce-83b9-97a905dc94adfbaf9718-9cb5-40f8-8d2a-09e76ec0056f.jpg",
+      "PackagePath": "staticwebassets\\img\\20da5f5b-7c81-47ce-83b9-97a905dc94adfbaf9718-9cb5-40f8-8d2a-09e76ec0056f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\276f115b-1467-46ee-b4ee-59a58d582a275899913420109628048-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\276f115b-1467-46ee-b4ee-59a58d582a275899913420109628048-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\2a16dd63-2c04-455b-ae13-2b2f32aa3c175899913420109628048-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\2a16dd63-2c04-455b-ae13-2b2f32aa3c175899913420109628048-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\2a7904fb-273b-4628-8b15-1d849c4ee0cd5899913420109628048-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\2a7904fb-273b-4628-8b15-1d849c4ee0cd5899913420109628048-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\2e85e7fc-d125-45ab-9919-3e7944aa27dedownload__5_-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\2e85e7fc-d125-45ab-9919-3e7944aa27dedownload__5_-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\3508c495-e2cb-4948-bebb-df118c73420c5899913420109628042-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\3508c495-e2cb-4948-bebb-df118c73420c5899913420109628042-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\365a697c00f6f56b26af0dbcbe00f395.jpg",
+      "PackagePath": "staticwebassets\\img\\365a697c00f6f56b26af0dbcbe00f395.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\3f8ff4a8-b8a4-497f-976f-069b9828b864Ice Cream Cake Decorating Tutorial _ How to Decorate a Cake.jpg",
+      "PackagePath": "staticwebassets\\img\\3f8ff4a8-b8a4-497f-976f-069b9828b864Ice Cream Cake Decorating Tutorial _ How to Decorate a Cake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\4f4370d1-ca50-48ea-88ad-c67c215d176206b75b5c-2770-49ff-a414-8d5694f677a5-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\4f4370d1-ca50-48ea-88ad-c67c215d176206b75b5c-2770-49ff-a414-8d5694f677a5-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\50d01ca3-c787-4c68-9a73-285acad19a80cakes-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\50d01ca3-c787-4c68-9a73-285acad19a80cakes-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\655f73b5-7030-4d18-a75c-16db1051edd6Ice_Cream_Cake_Decorating_Tutorial___How_to_Decorate_a_Cake-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\655f73b5-7030-4d18-a75c-16db1051edd6Ice_Cream_Cake_Decorating_Tutorial___How_to_Decorate_a_Cake-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\6c227d94-cab8-4812-9517-a6f23f58d452rose_gift_bouquet-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\6c227d94-cab8-4812-9517-a6f23f58d452rose_gift_bouquet-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\76124a50-9bb5-4fcb-8bd1-328b9c558b6brose gift bouquet.jpg",
+      "PackagePath": "staticwebassets\\img\\76124a50-9bb5-4fcb-8bd1-328b9c558b6brose gift bouquet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\8567eaf1-ae0e-43e1-a418-b5ae695d5b1dThis____️-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\8567eaf1-ae0e-43e1-a418-b5ae695d5b1dThis____️-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\8a180531-c168-40cb-a3a5-8e34f4dfb1e1rose gift bouquet.jpg",
+      "PackagePath": "staticwebassets\\img\\8a180531-c168-40cb-a3a5-8e34f4dfb1e1rose gift bouquet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\8f6d99dc-c43f-4e79-bcd1-45613e7052a7c99b77d0-f76e-4bf7-8d6e-6a097f0a5a62-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\8f6d99dc-c43f-4e79-bcd1-45613e7052a7c99b77d0-f76e-4bf7-8d6e-6a097f0a5a62-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\90252e74-3e65-434f-a805-f495bfbc80105899913420109628047-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\90252e74-3e65-434f-a805-f495bfbc80105899913420109628047-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\9b6c0660-64d0-4748-819a-2cd9574b27ad5899913420109628048-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\9b6c0660-64d0-4748-819a-2cd9574b27ad5899913420109628048-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\About.jpg",
+      "PackagePath": "staticwebassets\\img\\About.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\Believe_in_Yourself__-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\Believe_in_Yourself__-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\Relojes_clasicos-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\Relojes_clasicos-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\Studio.jpg",
+      "PackagePath": "staticwebassets\\img\\Studio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\Tangente_33_duo___NOMOS_Glashütte-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\Tangente_33_duo___NOMOS_Glashütte-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\WhatsApp Video 2024-08-03 at 9.55.42 PM (1).mp4",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Video 2024-08-03 at 9.55.42 PM (1).mp4"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\_Party_Golden_And_White_Balloons_In_Front_Of_The_Ceiling__by_Stocksy_Contributor__Beatrix_Boros_-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\_Party_Golden_And_White_Balloons_In_Front_Of_The_Ceiling__by_Stocksy_Contributor__Beatrix_Boros_-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\a220c235-e0c3-485c-843a-2db8888b65595899913420109628047-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\a220c235-e0c3-485c-843a-2db8888b65595899913420109628047-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\abt.jpg",
+      "PackagePath": "staticwebassets\\img\\abt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\af338f90-3afe-4261-97a4-e79eb52d4a69rose gift bouquet.jpg",
+      "PackagePath": "staticwebassets\\img\\af338f90-3afe-4261-97a4-e79eb52d4a69rose gift bouquet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\avaters\\avatar1.png",
+      "PackagePath": "staticwebassets\\img\\avaters\\avatar1.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\avaters\\avatar2.png",
+      "PackagePath": "staticwebassets\\img\\avaters\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\avaters\\avatar3.png",
+      "PackagePath": "staticwebassets\\img\\avaters\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\company-logos\\1.png",
+      "PackagePath": "staticwebassets\\img\\company-logos\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\company-logos\\2.png",
+      "PackagePath": "staticwebassets\\img\\company-logos\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\company-logos\\3.png",
+      "PackagePath": "staticwebassets\\img\\company-logos\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\company-logos\\4.png",
+      "PackagePath": "staticwebassets\\img\\company-logos\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\company-logos\\5.png",
+      "PackagePath": "staticwebassets\\img\\company-logos\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\cta.jpg",
+      "PackagePath": "staticwebassets\\img\\cta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\d599a9f6-5cea-487f-bf93-e6347f81498erose gift bouquet.jpg",
+      "PackagePath": "staticwebassets\\img\\d599a9f6-5cea-487f-bf93-e6347f81498erose gift bouquet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\dd.jpg",
+      "PackagePath": "staticwebassets\\img\\dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\download-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\download-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\download.jpg",
+      "PackagePath": "staticwebassets\\img\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\ee.png",
+      "PackagePath": "staticwebassets\\img\\ee.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\f093771d-d0f3-4b86-852b-eb5a4d63eda045_Elegant_Graduation_Cake_Ideas_Perfect_For_A_Crowd-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\f093771d-d0f3-4b86-852b-eb5a4d63eda045_Elegant_Graduation_Cake_Ideas_Perfect_For_A_Crowd-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\f5fc6ffa-bdcf-4416-8394-3314dcf411155899913420109628042-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\f5fc6ffa-bdcf-4416-8394-3314dcf411155899913420109628042-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\fa793dae-a7c0-4172-968e-e016e679e027This____️-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\fa793dae-a7c0-4172-968e-e016e679e027This____️-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\faeff0f3-5d83-40bb-9138-de22f6eeb98a5899913420109628045-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\faeff0f3-5d83-40bb-9138-de22f6eeb98a5899913420109628045-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\fbaf9718-9cb5-40f8-8d2a-09e76ec0056f.jpg",
+      "PackagePath": "staticwebassets\\img\\fbaf9718-9cb5-40f8-8d2a-09e76ec0056f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\feature-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\feature-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\first-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\first-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\hero-bg-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\hero-bg-3.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\homepage-bg-pattern.png",
+      "PackagePath": "staticwebassets\\img\\homepage-bg-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\latest-news\\news-bg-1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\news-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\latest-news\\news-bg-2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\news-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\latest-news\\news-bg-3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\news-bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\latest-news\\news-bg-4.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\news-bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\latest-news\\news-bg-5.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\news-bg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\latest-news\\news-bg-6.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\news-bg-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\products\\product-img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\products\\product-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\products\\product-img-3.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\products\\product-img-4.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\products\\product-img-5.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\products\\product-img-6.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\img\\tt.png",
+      "PackagePath": "staticwebassets\\img\\tt.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\form-validate.js",
+      "PackagePath": "staticwebassets\\js\\form-validate.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\jquery-1.11.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\jquery.isotope-3.0.6.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.isotope-3.0.6.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\sticker.js",
+      "PackagePath": "staticwebassets\\js\\sticker.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\test.js",
+      "PackagePath": "staticwebassets\\js\\test.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\js\\waypoints.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\video\\WhatsApp Video 2024-08-10 at 5.55.50 PM.mp4",
+      "PackagePath": "staticwebassets\\video\\WhatsApp Video 2024-08-10 at 5.55.50 PM.mp4"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\video\\WhatsApp Video 2024-08-15 at 3.50.31 PM.mp4",
+      "PackagePath": "staticwebassets\\video\\WhatsApp Video 2024-08-15 at 3.50.31 PM.mp4"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-brands-400.eot_",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot_"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-regular-400.eot_",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot_"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-solid-900.eot_",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot_"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\orange task\\C#\\task02\\HereToYou\\HereToYou\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HereToYou.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HereToYou.props",
+      "PackagePath": "build\\HereToYou.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HereToYou.props",
+      "PackagePath": "buildMultiTargeting\\HereToYou.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HereToYou.props",
+      "PackagePath": "buildTransitive\\HereToYou.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
